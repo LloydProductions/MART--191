@@ -17,7 +17,11 @@ With just sitting here today after class I contemplated what major issues I migh
   * Side note - I am not looking forward to this aspect at all.
   * This is my first time using any type of program or text editor, so just the simple commands in PowerShell have seemed as foreign as   
 
-The largest issue I've had with code so far would be trying to figure out how to include a web page. The bracketing system is hard to understand, since I'm not used to this type of language. Its hard to differentiate the implied meaning of a keyed sequence after another rather than just on its own. (Example to follow)
+The largest issue I've had with code so far would be trying to figure out how to include a web page. The bracketing system is hard to understand, since I'm not used to this type of language. Its hard to differentiate the implied meaning of a keyed sequence after another rather than just on its own. (Example to follow after the screen shot)
+
+To complete this assignment here is a picture of my text editor, with  the text in view and my Explorer browser.
+
+![ScreenShot](HW2Screenshot.png)
 
 ```[I'm an inline-style link](https://www.google.com)```
 
@@ -25,4 +29,4 @@ As I explained above the [I'm an inline-style link] is difficult to understand, 
 
 I have found the external link to the 340 web page incredibly helpful so far in this class, that will be posted bellow
 
-[MART 341 Web Development Web Page](https://montana-media-arts.github.io/mart341-webDev/modules/course-info/Syllabus-mart341/) 
+[MART 341 Web Development Web Page](https://montana-media-arts.github.io/mart341-webDev/modules/course-info/Syllabus-mart341/)
