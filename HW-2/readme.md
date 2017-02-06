@@ -23,7 +23,7 @@ To complete this assignment here is a picture of my text editor, with  the text 
 
 ![ScreenShot](HW2Screenshot.png)
 
-```[I'm an inline-style link](https://www.google.com)```
+`[I'm an inline-style link](https://www.google.com]`
 
 As I explained above the [I'm an inline-style link] is difficult to understand, just on its own. I probably sound incredibly elementary to most of you who will read this but after all, this is a whole new world to me. Once I figured out the meaning/application of the "add a link" it came in handy.
 
