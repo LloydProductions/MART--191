@@ -80,11 +80,11 @@ pop();
 // Mouth
 push();
   fill(0, 0, 255);
-  arc(105, 180, 50, 25, 0, PI, CHORD);
+  arc(265, 110, 50, 25, 0, PI, CHORD);
 
 // Nose
   fill(0, 0, 0);
-  triangle(-33, -215, -33, -195, -50, -190);
+  triangle(265, 90, 265, 80, 245, 100);
 pop();
 
 // Legs
