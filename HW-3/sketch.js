@@ -8,7 +8,6 @@ function setup() {
 push();
   textAlign(CENTER);
   textSize(20);
-  loadFont("assest/Bold.ttf");
   text("Jeremy Johnson's Self Portrait by Jeremy Johnson", 350, 600);
 pop();
 
@@ -65,6 +64,27 @@ push();
   translate(300,300);
   fill(51);
   ellipse(-35, -220, 120, 130);
+
+// Eyes Left then Right
+  fill(250, 250, 250);
+  ellipse(-58, -235, 25, 15);
+  fill(0, 0, 0);
+  ellipse(-58, -235, 15, 15);
+  fill(250, 250, 250);
+  ellipse(-10, -235, 25, 15);
+  fill(0, 0, 0);
+  ellipse(-10, -235, 15, 15);
+
+pop();
+
+// Mouth
+push();
+  fill(0, 0, 255);
+  arc(105, 180, 50, 25, 0, PI, CHORD);
+
+// Nose
+  fill(0, 0, 0);
+  triangle(-33, -215, -33, -195, -50, -190);
 pop();
 
 // Legs
@@ -74,9 +94,6 @@ push();
   triangle(-135, 60, -55, 60, 80, 260);
   triangle(-215, 60, -310, 240, -135, 60);
 pop();
-
-
-
 
 }
 
