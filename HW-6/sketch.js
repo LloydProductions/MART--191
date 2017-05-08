@@ -99,11 +99,11 @@ function mousePressed() {
     state = !state;
   }
 
-if( mouseX >= person.button_x &&
-    mouseX <= person.button_x + person.button_size &&
-    mouseY >= person.button_y &&
-    mouseY <= person.button_y + person.button_size
-  )  {
-    person.present = !person.present;
-    }
+  if( mouseX >= person.button_x &&
+      mouse <= person.button_x +person.button_size &&
+      mouseY >= person.button_y &&
+      mouseY <= person.button_y + person.button_size
+    ){
+      person.peresent = !person.present;
+      }
 }
